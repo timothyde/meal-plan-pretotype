@@ -21,7 +21,7 @@
   "homepage": "https://github.com/taylorbryant/next-starter-tailwind#readme",
   "dependencies": {
     "@headlessui/react": "^1.4.1",
-    "@heroicons/react": "^1.0.4",
+    "@heroicons/react": "^2.0.12",
     "@tailwindcss/forms": "^0.3.3",
     "axios": "^0.24.0",
     "i18n-iso-countries": "^7.0.0",
